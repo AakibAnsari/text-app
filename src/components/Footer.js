@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <nav className="navbar scrollable-bottom bg-light">
         <div className="container-fluid">
-            Copyright @ 2022 | Kamrujama Ansari
+            Copyright @ 2022 | Md Aakib Ansari
         </div>
       </nav>
     </>
